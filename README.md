@@ -19,11 +19,11 @@ All residential buildings are color-coded according to their specific primary en
 
 The results for two scenarios can be selected in the toolbox on the top left. Here, for example,
 the results for the scenario *Status Quo* and *Scenario 1* can be selected and shown
-(see following figures). The toolbox can also display the vegetation model and the results
-from the solar tool mentioned in the paper.
+(see following figures).
 
 <p align="center"><img src="PEDStatusQuo.png" width="800" /></p>
 <p align="center"><img src="PEDSzenario1.png" width="800" /></p>
+
 
 ## More information
 
@@ -42,3 +42,11 @@ the extendible international standard for spatial data exchange issued by the Op
 basic entities, attributes, and relations of a 3D city model.
 
 CityGML is an international OGC standard and can be used free of charge.
+
+## Contact
+
+For further information please contact:
+
+Hannes Harter - Institute of Energy Efficient and Sustainbale Design and Building, Technical University of Munich [Contact Details](https://www.bgu.tum.de/enpb/team/hannes-harter/)
+
+Bruno Willenborg - Chair of Geoinformatics, Technical University of Munich [Contact Details](https://www.lrg.tum.de/gis/unser-team/lehrstuhlangehoerige/bruno-willenborg/)
