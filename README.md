@@ -21,10 +21,31 @@ All residential buildings are color-coded according to their specific primary en
 
 The results for two scenarios can be selected in the toolbox on the top left. Here, for example,
 the results for the scenario *Status Quo* and *Scenario 1* can be selected and shown
-(see following figures).
+(see following figures). Additionally, a short summary of the general assumptions regarding the calculations are provided. Please refere to the published paper for more detailed information.
+
+#### General Assumptions for Calculations
+* The calculations are based on a single zone model
+* No building specific floor plan or zoning is used for the calculations
+* The energy demand calculation refers to the German Energy Saving Ordinance (EnEV) - DIN V 4108-6 and DIN V 4701-10. Specifically, the *heating period procedure*   is chosen as an approach within DIN V 4108-6 (Heating Period: 185 days).
+* CityGML-model in LoD2 is used as basis.
+* Basements and underground car parks are excluded.
+
+#### Status Quo
+* The energetic standard of the building, described by U-values, refer to its year of construction
 
 <p align="center"><img src="PEDStatusQuo.png" width="800" /></p>
+
+The results for the specific primary energy demand of szenario *Status Quo* show a high spread (in this specific screenshot), whereas most buildings are in the upper half of the energy denmand, based on the classification of the color scheme on the energy-related evaluation band.  
+
+#### Szenario1
+* The cubature of the buildings does not change, i.e. that there is no increase in height (urban redensification) and that no additional new buildings are added.
+* All buildings are refurbished and not demolished and rebuilt.
+* The refurbishment of wall, ground and roof surfaces is represented by the improvement of the U-values.
+* When refurbishing the TBS components, it is assumed that all components are replaced completely
+
 <p align="center"><img src="PEDSzenario1.png" width="800" /></p>
+
+The renovation changes the image significantly (in this specific screenshot) and almost all buildings are in the "green" area and therefore have a very low specific primary energy requirement.
 
 
 ## More information
@@ -50,7 +71,6 @@ CityGML is an international OGC standard and can be used free of charge.
 For further information please contact:
 
 Hannes Harter - Institute of Energy Efficient and Sustainbale Design and Building, Technical University of Munich [Contact Details](https://www.bgu.tum.de/enpb/team/hannes-harter/)
-
 Bruno Willenborg - Chair of Geoinformatics, Technical University of Munich [Contact Details](https://www.lrg.tum.de/gis/unser-team/lehrstuhlangehoerige/bruno-willenborg/)
 
 ## Acknowledgements
