@@ -24,14 +24,14 @@ the results for the scenario *Status Quo* and *Scenario 1* can be selected and s
 (see following figures). Additionally, a short summary of the general assumptions regarding the calculations are provided. Please refere to the published paper for more detailed information.
 
 #### General Assumptions for Calculations
-* The calculations are based on a single zone model
-* No building specific floor plan or zoning is used for the calculations
+* The calculations are based on a single zone model.
+* No building specific floor plan or zoning is used for the calculations.
 * The energy demand calculation refers to the German Energy Saving Ordinance (EnEV) - DIN V 4108-6 and DIN V 4701-10. Specifically, the *heating period procedure*   is chosen as an approach within DIN V 4108-6 (Heating Period: 185 days).
 * CityGML-model in LoD2 is used as basis.
 * Basements and underground car parks are excluded.
 
 #### Status Quo
-* The energetic standard of the building, described by U-values, refer to its year of construction
+* The energetic standard of the building, described by U-values, refer to its year of construction.
 
 <p align="center"><img src="PEDStatusQuo.png" width="800" /></p>
 
@@ -41,7 +41,7 @@ The results for the specific primary energy demand of szenario *Status Quo* show
 * The cubature of the buildings does not change, i.e. that there is no increase in height (urban redensification) and that no additional new buildings are added.
 * All buildings are refurbished and not demolished and rebuilt.
 * The refurbishment of wall, ground and roof surfaces is represented by the improvement of the U-values.
-* When refurbishing the TBS components, it is assumed that all components are replaced completely
+* When refurbishing the TBS components, it is assumed that all components are replaced completely.
 
 <p align="center"><img src="PEDSzenario1.png" width="800" /></p>
 
