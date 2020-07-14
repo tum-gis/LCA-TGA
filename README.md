@@ -15,7 +15,7 @@ All residential buildings are color-coded according to their specific primary en
  German energy certificates, according to EnEV (see
  figure below).
 
-<p align="center"><img src="EvaluationBand.png" width="500" /></p>
+<p align="center"><img src="EvaluationBand2.png" width="500" /></p>
 
 The results for two scenarios can be selected in the toolbox on the top left. Here, for example,
 the results for the scenario *Status Quo* and *Scenario 1* can be selected and shown
