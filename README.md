@@ -1,2 +1,4 @@
-# LCA-TGA
-Life Cycle Assessment of Technical Building Services of Large Residential Ruilding Stocks using Semantic 3D City Models
+# Life Cycle Assessment of Technical Building Services of Large Residential Building Stocks Using Semantic 3D City Models
+
+This repository contains the visualisation of the studies result, presented and published at the [3D GeoInfo 2020 conference](https://www.ucl.ac.uk/3dgeoinfo/), in the [3D City Database Web-Map-Client (3D web client)](https://github.com/3dcitydb/3dcitydb-web-map/). The here as example presented results refer to the specific primary energy demand [kWh/m<sup>2</sup>*a] for the use stage of all 115,306 residential buildings in Munich. Thus, all color-coded buildings are residential buildings and all non-colored, non-residential buildings. The coloring is done using the color scheme on the energy-related evaluation band of the German energy certificates, according to EnEV (see following figure). 
+
