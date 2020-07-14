@@ -80,4 +80,4 @@ For further information please contact:
 
 ## Acknowledgements
 
-We thank the [Bavarian State Office for Digitization, Broadband and Surveying](https://www.ldbv.bayern.de/) for providing the CityGML data as well as the [Planning Department of the Bavarian State Capital Munich](https://www.muenchen.de/rathaus/Stadtverwaltung/Referat-fuer-Stadtplanung-und-Bauordnung.html) for providing all other building-specific parameters (e. g. year of construction).
+We thank the [Bavarian State Office for Digitization, Broadband and Surveying](https://www.ldbv.bayern.de/) (Project: Geomassendaten) for providing the CityGML data as well as the [Planning Department of the Bavarian State Capital Munich](https://www.muenchen.de/rathaus/Stadtverwaltung/Referat-fuer-Stadtplanung-und-Bauordnung.html) for providing all other building-specific parameters (e. g. year of construction).
