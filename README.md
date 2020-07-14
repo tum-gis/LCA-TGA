@@ -15,7 +15,9 @@ All residential buildings are color-coded according to their specific primary en
  German energy certificates, according to EnEV (see
  figure below).
 
-<p align="center"><img src="EvaluationBand2.png" width="500" /></p>
+<p align="center"><img src="EvaluationBand2.png" width="500" /></p> 
+<p align="center"> Unit: kWh/m²&middot;a </p> 
+
 
 The results for two scenarios can be selected in the toolbox on the top left. Here, for example,
 the results for the scenario *Status Quo* and *Scenario 1* can be selected and shown
@@ -50,3 +52,7 @@ For further information please contact:
 Hannes Harter - Institute of Energy Efficient and Sustainbale Design and Building, Technical University of Munich [Contact Details](https://www.bgu.tum.de/enpb/team/hannes-harter/)
 
 Bruno Willenborg - Chair of Geoinformatics, Technical University of Munich [Contact Details](https://www.lrg.tum.de/gis/unser-team/lehrstuhlangehoerige/bruno-willenborg/)
+
+## Acknowledgements
+
+We thank the [Bavarian State Office for Digitization, Broadband and Surveying](https://www.ldbv.bayern.de/) for providing the CityGML data as well as the [Planning Department of the Bavarian State Capital Munich](https://www.muenchen.de/rathaus/Stadtverwaltung/Referat-fuer-Stadtplanung-und-Bauordnung.html) for providing all other building-specific parameters (e. g. year of construction).
