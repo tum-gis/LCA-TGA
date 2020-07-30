@@ -4,8 +4,10 @@ This repository contains the visualisation of the studies result, presented and 
 [3D GeoInfo 2020 conference](https://www.ucl.ac.uk/3dgeoinfo/).
 The [Open Source 3D City Database Web-Map-Client](https://github.com/3dcitydb/3dcitydb-web-map/) is uses as visualization client.
 
-- [x] Click [HERE](http://3dcitydb.org/3dcitydb-web-map/1.8.2/3dwebclient/?title=3DCityDB-Web-Map-Client&shadows=false&terrainShadows=0&latitude=48.140635766050764&longitude=11.567695522667266&height=1412.2726628515468&heading=357.96057621677863&pitch=-38.96879082079747&roll=359.99121827623014&layer_0=url%3Dhttp%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FmunichLCA_TGA%252Fbldg_SPED_original%252Fbldg_collada_MasterJSON.json%26name%3DBldg%2520-%2520original%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D2.0%26active%3Dtrue%26spreadsheetUrl%3D%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D120%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_1=url%3Dhttp%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FmunichLCA_TGA%252Fbldg_SPED_EnEv%252Fbldg_collada_MasterJSON.json%26name%3DBldg%2520-%2520EnEV%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D2.0%26active%3Dfalse%26spreadsheetUrl%3D%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D120%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_2=url%3Dhttp%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FmunichCenter%252Fsolar-bldg-glTF%252Fdata_solar-bldg-glTF_collada_MasterJSON.json%26name%3DBldg%2520-%2520Solar%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D2.0%26active%3Dfalse%26spreadsheetUrl%3Dhttp%253A%252F%252Ftumtest.duckdns.org%253A3000%252Fmunich_center%26thematicDataSource%3DPostgreSQL%26tableType%3DVertical%26cityobjectsJsonUrl%3D%26minLodPixels%3D120%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&layer_3=url%3Dhttp%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FmunichCenter%252Fvegetation-glTF%252Fvege_collada_MasterJSON.json%26name%3DVegetation%26layerDataType%3DCOLLADA%252FKML%252FglTF%26gltfVersion%3D2.0%26active%3Dtrue%26spreadsheetUrl%3D%26thematicDataSource%3DGoogleSheets%26tableType%3DHorizontal%26cityobjectsJsonUrl%3D%26minLodPixels%3D120%26maxLodPixels%3D1.7976931348623157e%252B308%26maxSizeOfCachedTiles%3D200%26maxCountOfVisibleTiles%3D200&terrain=name%3DDGM1%26iconUrl%3Dhttp%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252Fdgm.png%26tooltip%3D%26url%3Dhttp%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252Fterrain_bay_geomassendaten&splashWindow=url%3Dsplash%252FSplashWindow.html%26showOnStart%3Dfalse) to view the online 3D web client demo Use [GoogleChrome](https://www.google.com/intl/de_de/chrome/)
-for best performance.
+- [x] Click [HERE](https://3dcitydb.org/3dcitydb-web-map/1.8.4/3dwebclient/?t=3DCityDB-Web-Map-Client&s=false&ts=0&la=48.146985&lo=11.567016&h=669.815&hd=343.64&p=-29.97&r=359.94&l_0=u%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FmunichLCA_TGA%252Fbldg_SPED_original%252Fbldg_collada_MasterJSON.json%26n%3DBldg%2520-%2520Status%2520quo%26ld%3DCOLLADA%252FKML%252FglTF%26lp%3Dfalse%26lc%3Dtrue%26gv%3D2.0%26a%3Dtrue%26tu%3D%26ds%3DPostgreSQL%26tt%3DHorizontal%26gc%3D%26il%3D120%26al%3D1.7976931348623157e%252B308%26ac%3D200%26av%3D200&l_1=u%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FmunichLCA_TGA%252Fbldg_SPED_EnEv%252Fbldg_collada_MasterJSON.json%26n%3DBldg%2520-%2520Scenario%25201%26ld%3DCOLLADA%252FKML%252FglTF%26lp%3Dfalse%26lc%3Dtrue%26gv%3D2.0%26a%3Dfalse%26tu%3D%26ds%3DPostgreSQL%26tt%3DHorizontal%26gc%3D%26il%3D120%26al%3D1.7976931348623157e%252B308%26ac%3D200%26av%3D200&l_2=u%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252FmunichCenter%252Fvegetation-glTF%252Fvege_collada_MasterJSON.json%26n%3DVegetation%26ld%3DCOLLADA%252FKML%252FglTF%26lp%3Dfalse%26lc%3Dtrue%26gv%3D2.0%26a%3Dtrue%26tu%3D%26ds%3DPostgreSQL%26tt%3DHorizontal%26gc%3D%26il%3D120%26al%3D1.7976931348623157e%252B308%26ac%3D200%26av%3D200&tr=name%3DDGM1%26iconUrl%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252Fdgm.png%26tooltip%3DDGM1%26url%3Dhttps%253A%252F%252Fwww.3dcitydb.org%252F3dcitydb%252Ffileadmin%252Fpublic%252F3dwebclientprojects%252Fterrain_bay_geomassendaten&sw=
+) to view the online 3D web client demo.
+Use [GoogleChrome](https://www.google.com/intl/de_de/chrome/) for best performance.
+
 - [x] The full paper is available on [MediaTUM](https://mediatum.ub.tum.de/1520859?show_id=1551986) and from [ISPRS Annals](https://mediatum.ub.tum.de/1520859?show_id=1551986). **ToDo: Add ISPRS URL when available.**
 
 The case study shown in the client consists of 115,306 residential buildings in Munich, Germany.
@@ -26,30 +28,30 @@ the results for the scenario *Status Quo* and *Scenario 1* can be selected and s
 
 ### General Assumptions for Calculations
 
-* The calculations are based on a single zone model.
-* No building specific floor plan or zoning is used for the calculations.
-* The energy demand calculation refers to the German Energy Saving Ordinance (EnEV) - DIN V 4108-6 and DIN
+- The calculations are based on a single zone model.
+- No building specific floor plan or zoning is used for the calculations.
+- The energy demand calculation refers to the German Energy Saving Ordinance (EnEV) - DIN V 4108-6 and DIN
   V 4701-10. Specifically, the *heating period procedure* is chosen as an approach within DIN V 4108-6
   (Heating Period: 185 days).
-* A Level-of-Detail 2 [CityGML](https://www.ogc.org/standards/citygml) building model is used as input data.
-* Basements and underground car parks are excluded.
+- A Level-of-Detail 2 [CityGML](https://www.ogc.org/standards/citygml) building model is used as input data.
+- Basements and underground car parks are excluded.
 
 ### Status Quo
 
-* Layername: *Bldg - original*
-* The energetic standard of the building, described by U-values, refer to its year of construction.
+- Layername: *Bldg - original*
+- The energetic standard of the building, described by U-values, refer to its year of construction.
 
 <p align="center"><img src="PEDStatusQuo.png" width="800" /></p>
-The results for the specific primary energy demand of szenario *Status Quo* show a high spread (in this specific screenshot), whereas most buildings are in the upper half of the energy denmand, based on the classification of the color scheme on the energy-related evaluation band.  
+The results for the specific primary energy demand of szenario *Status Quo* show a high spread (in this specific screenshot), whereas most buildings are in the upper half of the energy denmand, based on the classification of the color scheme on the energy-related evaluation band.
 
 ### Szenario 1
 
-* Layername: *Bldg - EnEv*
-* The cubature of the buildings does not change, i.e. that there is no increase in height
-* (urban redensification) and that no additional new buildings are added.
-* All buildings are refurbished and not demolished and rebuilt.
-* The refurbishment of wall, ground and roof surfaces is represented by the improvement of the U-values.
-* When refurbishing the TBS components, it is assumed that all components are replaced completely.
+- Layername: *Bldg - EnEv*
+- The cubature of the buildings does not change, i.e. that there is no increase in height
+- (urban redensification) and that no additional new buildings are added.
+- All buildings are refurbished and not demolished and rebuilt.
+- The refurbishment of wall, ground and roof surfaces is represented by the improvement of the U-values.
+- When refurbishing the TBS components, it is assumed that all components are replaced completely.
 
 <p align="center"><img src="PEDSzenario1.png" width="800" /></p>
 The renovation changes the image significantly (in this specific screenshot) and almost all
@@ -75,8 +77,8 @@ basic entities, attributes, and relations of 3D city and landscape models. CityG
 
 For further information please contact:
 
-* [Hannes Harter](https://www.bgu.tum.de/enpb/team/hannes-harter/) - Institute of Energy Efficient and Sustainbale Design and Building, Technical University of Munich
-* [Bruno Willenborg](https://www.lrg.tum.de/gis/unser-team/lehrstuhlangehoerige/bruno-willenborg/) - Chair of Geoinformatics, Technical University of Munich
+- [Hannes Harter](https://www.bgu.tum.de/enpb/team/hannes-harter/) - Institute of Energy Efficient and Sustainbale Design and Building, Technical University of Munich
+- [Bruno Willenborg](https://www.lrg.tum.de/gis/unser-team/lehrstuhlangehoerige/bruno-willenborg/) - Chair of Geoinformatics, Technical University of Munich
 
 ## Acknowledgements
 
