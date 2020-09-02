@@ -20,7 +20,7 @@ All residential buildings are color-coded according to their specific primary en
 <p align="center"><img src="EvaluationBand2.png" width="500" /></p>
 <p align="center"> Unit: kWh/m²&middot;a </p>
 
-## Sencarios
+## Scenarios
 
 The results for two scenarios can be selected in the toolbox on the top left. Here, for example,
 the results for the scenario *Status Quo* and *Scenario 1* can be selected and shown
@@ -44,7 +44,7 @@ the results for the scenario *Status Quo* and *Scenario 1* can be selected and s
 <p align="center"><img src="PEDStatusQuo.png" width="800" /></p>
 The results for the specific primary energy demand of szenario *Status Quo* show a high spread (in this specific screenshot), whereas most buildings are in the upper half of the energy denmand, based on the classification of the color scheme on the energy-related evaluation band.
 
-### Szenario 1
+### Scenario 1
 
 - Layername: *Bldg - EnEv*
 - The cubature of the buildings does not change, i.e. that there is no increase in height
