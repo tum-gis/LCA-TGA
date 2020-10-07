@@ -8,7 +8,7 @@ The [Open Source 3D City Database Web-Map-Client](https://github.com/3dcitydb/3d
  to view the online 3D web client demo.
 Use [GoogleChrome](https://www.google.com/intl/de_de/chrome/) for best performance.
 
-- [x] The full paper is available on [MediaTUM](https://mediatum.ub.tum.de/1520859?show_id=1551986) and from [ISPRS Annals](https://mediatum.ub.tum.de/1520859?show_id=1551986). **ToDo: Add ISPRS URL when available.**
+- [x] The full paper is available on [MediaTUM](https://mediatum.ub.tum.de/node?id=1574327) and from [ISPRS Annals](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/VI-4-W1-2020/85/2020/).
 
 The case study shown in the client consists of 115,306 residential buildings in Munich, Germany.
 All residential buildings are color-coded according to their specific primary energy demand
