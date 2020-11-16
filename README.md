@@ -59,8 +59,9 @@ buildings are in the "green" area and therefore have a very low specific primary
 
 ## More information
 
-The **3DCityDB-Web-Map-Client** is a web-based front-end of the 3DCityDB for high-performance 3D
-visualization and interactive exploration of **arbitrarily large semantic 3D city models in CityGML**.
+The [3D-CityDB-Web-Map-Client](https://github.com/3dcitydb/3dcitydb-web-map/)
+is a web-based front-end of the 3DCityDB for high-performance 3D visualization and interactive
+exploration of **arbitrarily large semantic 3D city models in CityGML**.
 It utilizes the [Cesium Virtual Globe](http://cesiumjs.org/index.html) as its 3D geo-visualization engine
 based on HTML5 and Web Graphics Library (WebGL) to provide hardware acceleration and cross-platform
 functionalities like displaying 3D graphic contents on web browsers without the needs of additional
