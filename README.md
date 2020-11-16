@@ -48,9 +48,9 @@ The results for the specific primary energy demand of szenario *Status Quo* show
 
 - Layername: *Bldg - EnEv*
 - The cubature of the buildings does not change, i.e. that there is no increase in height
-- (urban redensification) and that no additional new buildings are added.
+(urban redensification) and that no additional new buildings are added.
 - All buildings are refurbished and not demolished and rebuilt.
-- The refurbishment of wall, ground and roof surfaces is represented by the improvement of the U-values.
+- The refurbishment of ground, wall and roof surfaces is represented by the improvement of the U-values.
 - When refurbishing the TBS components, it is assumed that all components are replaced completely.
 
 <p align="center"><img src="PEDSzenario1.png" width="800" /></p>
