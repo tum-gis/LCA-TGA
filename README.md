@@ -20,6 +20,20 @@ All residential buildings are color-coded according to their specific primary en
 <p align="center"><img src="EvaluationBand2.png" width="500" /></p>
 <p align="center"> Unit: kWh/m²&middot;a </p>
 
+In addition to the content and results on primary energy demand published in the conference paper, the following further indicators are calculated:
+- Primary Energy from non-renewable resources (PENRT) [kWh]
+- Primary Energy from renewable resources (PERT) [kWh]
+- Heating Load [kW]
+- Global Warming Potential (GWP) [kg CO<sub>2</sub>-eq.]
+- Emissions Costs (related to GWP) [€]
+- Life Cycle Costs (for the technical building services components) [€]
+
+These indicators result in a multidimensional assessment field that supports important urban planning and policy decision-making processes. The energy demand and heating load calculations can be used, for example, to derive statements on municipal planning for the provision of power plants for district heating. With the emission-related parameters GWP, important aspects of climate change and the highly relevant topic of climate neutrality can be considered and analyzed. 
+
+The above-mentioned indicators can be calculated and analyzed for the respective building stock under consideration. The status quo of the building stock can be evaluated, but also any development scenarios. Development scenarios mean that it is possible to define and investigate how the refurbishment of an entire building stock (over a specified period of time) will affect the respective indicators, when assessing them on a life-cycle basis. Among other things, the influence of different building-specific energy supply scenarios, the increasing use of renewable energies, the increases in electricity and construction prices, and the service life of components used can be calculated and assessed.
+
+The results of the development scenarios allow a hypothetical view into the future and enable the fundamental design of urban development processes with a clear focus on sustainable, ecological and affordable solutions. 
+
 ## Scenarios
 
 The results for two scenarios can be selected in the toolbox on the top left. Here, for example,
